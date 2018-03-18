@@ -1,37 +1,18 @@
-## Welcome to GitHub Pages
+## Marie&Alessandro 8th September 2018
 
-You can use the [editor on GitHub](https://github.com/shipperizer/probable-guide/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+On the 8th of September Marie and Alessandro are getting married.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+The ceremony will be held in [Sv Klara Chapel](https://www.google.co.uk/maps/dir/''/Art+Restaurant+Manes,+Masarykovo+n%C3%A1b%C5%99.+250%2F1,+110+00+Nov%C3%A9+M%C4%9Bsto,+Czechia/@50.0774783,14.3440801,12z/data=!4m8!4m7!1m0!1m5!1m1!1s0x470b94f0d8a42af1:0x4a8eaf7412837170!2m2!1d14.4141197!2d50.0774994)
 
-### Markdown
+![How do you get there?](https://www.google.co.uk/maps/dir/Socha%C5%99sk%C3%A1,+Prague+7,+Czechia/''/@50.1098184,14.4222751,15z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0x470b94cff5c2fa19:0x75ad5bef496d213e!2m2!1d14.4244491!2d50.1016498!1m5!1m1!1s0x470bead5f076dc17:0xaf3497939c8ac2d6!2m2!1d14.4141638!2d50.1179876!3e3)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+Follow up to [Manes Restaurant](https://www.google.co.uk/maps/dir/''/Art+Restaurant+Manes,+Masarykovo+n%C3%A1b%C5%99.+250%2F1,+110+00+Nov%C3%A9+M%C4%9Bsto,+Czechia/@50.0774783,14.3440801,12z/data=!4m8!4m7!1m0!1m5!1m1!1s0x470b94f0d8a42af1:0x4a8eaf7412837170!2m2!1d14.4141197!2d50.0774994)
 
-# Header 1
-## Header 2
-### Header 3
+### Staying
 
-- Bulleted
-- List
+We **suggest** to stay around the **Letna district or Prague 7**, and below some places to stay:
 
-1. Numbered
-2. List
+* [Hotel Belvedere](https://www.hotelbelvedereprague.cz/en/)
+* [Parkhotel Praha](https://www.tripadvisor.co.uk/Hotel_Review-g274707-d276653-Reviews-Parkhotel_Praha-Prague_Bohemia.html)
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/shipperizer/probable-guide/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
