@@ -21,9 +21,7 @@ At the gate, there will be someone to greet you and give you further directions.
 
 Should you arrive by car, please let us know in advance. The parking options are very limited.
 
-After the ceremony, there will be little refreshments including local wine.
-
-At *3.30pm* we will move to [Mánes Art Restaurant](https://www.google.co.uk/maps/dir/''/Art+Restaurant+Manes,+Masarykovo+n%C3%A1b%C5%99.+250%2F1,+110+00+Nov%C3%A9+M%C4%9Bsto,+Czechia/@50.0774783,14.3440801,12z/data=!4m8!4m7!1m0!1m5!1m1!1s0x470b94f0d8a42af1:0x4a8eaf7412837170!2m2!1d14.4141197!2d50.0774994) for the reception which will start at *4pm*.
+After the ceremony, there will be little refreshments including local wine. At *3.30pm* we will move to [Mánes Art Restaurant](https://www.google.co.uk/maps/dir/''/Art+Restaurant+Manes,+Masarykovo+n%C3%A1b%C5%99.+250%2F1,+110+00+Nov%C3%A9+M%C4%9Bsto,+Czechia/@50.0774783,14.3440801,12z/data=!4m8!4m7!1m0!1m5!1m1!1s0x470b94f0d8a42af1:0x4a8eaf7412837170!2m2!1d14.4141197!2d50.0774994) for the reception which will start at *4pm*.
 
 The restaurant is in the very centre of Prague which makes it very difficult for parking.
 
